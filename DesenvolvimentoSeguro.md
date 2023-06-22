@@ -35,3 +35,9 @@ OWASP, LISTA DAS 10 MAIORES VULNERABILIDADES
 opensamm vs bisimm
 
 utilizar verssionamento 
+
+DevSecOps
+
+automatizar inspeções de segurança 
+
+<img width="424" alt="image" src="https://github.com/MatheusLCSantos7/AcademiaStFNN/assets/93961602/70178897-e0d8-4659-aa73-0a7b4249c0f9">
