@@ -41,3 +41,19 @@ DevSecOps
 automatizar inspeções de segurança 
 
 <img width="424" alt="image" src="https://github.com/MatheusLCSantos7/AcademiaStFNN/assets/93961602/70178897-e0d8-4659-aa73-0a7b4249c0f9">
+
+
+Existe uma planilha de passos a passos a serem feitos 
+
+para implementação do OWASP-ASVS
+
+SONARQUBE- SOLUÇÃO QUE ANALISA CÓDIGO FONTE DE APLICAÇÕES
+
+DEVSECOPS
+
+COMO FAZER SCANEAMENTO COM SONARCUBE
+
+OWASP ZAP 
+
+![image](https://github.com/MatheusLCSantos7/AcademiaStFNN/assets/93961602/18452b1e-65f2-4442-8f9c-39a3d9c2ac63)
+
