@@ -7,3 +7,11 @@ o que é Branch
 ![Captura de tela 2023-08-24 104918](https://github.com/MatheusLCSantos7/AcademiaStFNN/assets/93961602/2aadadc3-6a06-4c66-8ab5-2693c1561cb0)
 
 
+O que é API
+
+o que é o Swagger
+
+testes de API
+testes integrados e testes 
+
+como fazer teste de API 
